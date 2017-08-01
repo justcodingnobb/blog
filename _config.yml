@@ -5,14 +5,14 @@
 # Site
 title: Rekkles | 尹祥的博客
 subtitle: Code Machine
-description: 人是生而自由的，却无往不在枷锁之中
+description: Keep Moving
 author: Rekkles
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://rekkles.xyz
+url: https://rekkles.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,3 +76,12 @@ search:
   field: post
   format: html
   limit: 10000
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+
+# baidu sitemap
+baidusitemap:
+path: baidusitemap.xml
