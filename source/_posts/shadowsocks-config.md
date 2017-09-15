@@ -6,7 +6,7 @@ tags:
   - VPS
 ---
 #### 1.shell登录服务器
-![登录服务器](http://rekkles.xyz/img/login.png)
+![登录服务器](/img/login.png)
 
 #### 2. 安装python-pip
 
@@ -17,6 +17,7 @@ tags:
 	pip install shadowsocks
 	
 <!-- more -->
+    
 #### 4.快速启动
 `nohup  sslocal -s your-server-ip -p your-server-port  -l 1080 -k your-server-passwd -t 600 -m rc4-md5 > /dev/null 2>&1 &`
 
@@ -61,3 +62,10 @@ tags:
  windows、IOS、Android、Mac都可以使用，在服务器端配置完毕之后下载Shadowsocks，启动！
  
  填上地址，端口，密码，启动代理，完成！✌️
+ 
+
+---
+
+最近访客
+
+<div class="ds-recent-visitors" data-num-items="39" data-avatar-size="40" id="ds-recent-visitors"></div><br/>

@@ -17,3 +17,7 @@ tags: VPS
 😏具体的配置看个人的需求，只是搭建个人博客简单使用推荐买一个月5刀的VPS，也不贵，一个月也就30块。
 
 买好了之后就开始搭建个人博客或者部署翻墙神器吧~
+
+---
+最近访客
+<div class="ds-recent-visitors" data-num-items="39" data-avatar-size="40" id="ds-recent-visitors"></div><br/>
